@@ -1,6 +1,8 @@
 {
   "require":{
-    "atk4/ui": "^1.2"
+    "atk4/ui": "^1.2",
+    "atk4/mastercrud": "^1.0",
+    "mailjet/mailjet-apiv3-php": "^1.2"
   },
   "autoload": {
     "psr-4": {"": "src/"}

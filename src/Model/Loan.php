@@ -14,5 +14,6 @@ class Loan extends \atk4\data\Model
         ]);
 
         $this->hasOne('friend_id', new Friend());
+
     }
 }
